@@ -13,8 +13,19 @@
 
 ## Getting Started
 
-**Just clone the project by runing the `git clone git@github.com:Adanzeakonobi/Hello-Microverse.git` command in your command line, and you are done.**
+- To get get started get a local copy up and running follow these simple example steps
 
+### Prerequesites
+
+Git installed
+Stylelint
+
+### Set Up
+
+- open a terminal  https://github.com/Adanzeakonobi/Hello-Microverse/tree/my-slide1
+- run git clone 
+- run cd Hello-Microverse/views
+- open index.html
 
 ## Authors
 
