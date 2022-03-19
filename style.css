@@ -1,0 +1,12 @@
+body {
+  background: grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  background: white;
+  text-align: center;
+  padding: 10%;
+  font-size: xx-large;
+  color: green;
+}
